@@ -31,6 +31,8 @@ additionalRepositories:
      # by default the location defaults to the repository name.
     checkoutLocation: backend
 
+workspaceLocation: demo-multi-repo-frontend/main.code-workspace # Relative to /workspace dir
+
 ## The 'tasks' section defines how Gitpod prepares and builds this project
 ## or how Gitpod can start development servers. With Gitpod, there are three
 ## types of tasks:
